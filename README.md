@@ -10,7 +10,7 @@ I am a novice software engineer, very interested in developing skills for creati
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, Lua
 - **Frameworks/Libraries**: FastAPI (Learning)
-- **Tools**: Git, Docker, Visual Studio 2022/VS Code, Windows 10 (hate win11 cuz of shitty CPU planner in 24H2)
+- **Tools**: Git, Docker, Visual Studio 2022/VS Code, Windows 10 (hate Win 11 cuz of shitty CPU Scheduler in 24H2)
 
 ## 📈 GitHub Stats
 ![Miscom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0lnyx&show_icons=true&theme=radical)
