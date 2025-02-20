@@ -17,5 +17,5 @@ Welcome to my GitHub profile! I am a novice software engineer, very interested i
 
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/s0lnyx/)
-- [Twitter](https://twitter.com/s0lnyx)
+- [Twitter](https://twitter.com/mscm_mon)
 ---
