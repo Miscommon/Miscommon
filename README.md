@@ -13,4 +13,5 @@ I am a novice software engineer, very interested in developing skills for creati
 - **Tools**: Git, Docker, Visual Studio 2022/VS Code, Windows 10 (hate Win 11 cuz of shitty CPU Scheduler in 24H2)
 
 ## 📈 GitHub Stats
-![Miscom's GitHub Stats](https://github-readme-stats.vercel.app/api?username=S0lnyx&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api?username=miscommon&theme=dark&show_icons=true&hide_border=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscommon&theme=dark&show_icons=true&hide_border=true&layout=compact" />
