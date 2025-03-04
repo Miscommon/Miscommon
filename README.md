@@ -8,7 +8,7 @@ I am a novice software engineer, very interested in developing skills for creati
 - How to reach me: [Email](mailto:s0lnyx.dev@gmail.com)
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, Lua
+- **Languages**: Python, Lua, C++
 - **Frameworks/Libraries**: FastAPI (Learning)
 - **Tools**: Git, Docker, Visual Studio 2022/VS Code, Windows 10 (hate Win 11 cuz of shitty CPU Scheduler in 24H2)
 
