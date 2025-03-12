@@ -1,15 +1,15 @@
 # Welcome to my GitHub profile!
 
-I am a novice software engineer, very interested in developing skills for creating system utilities, games, all kinds of web applications and bots.
+I am a novice software engineer, very interested in developing skills for creating system utilities, games and bots.
 
 ## ℹ️ About Me
 - Currently learning C++
 - At the same time, I am a bit into exploits and cybersecurity.
-- How to reach me: [Email](mailto:s0lnyx.dev@gmail.com)
+- How to reach me: [Email](mailto:miscommon.dev@gmail.com)
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, Lua, C++
-- **Frameworks/Libraries**: FastAPI (Learning)
+- **Frameworks/Libraries**: Nothing much rn tbh..
 - **Tools**: Git, Docker, Visual Studio 2022/VS Code, Windows 10
 
 ## 📈 GitHub Stats
