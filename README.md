@@ -1,10 +1,9 @@
-# Welcome to my GitHub profile!
-
-I am a novice software engineer, very interested in developing skills for creating system utilities, games and bots.
+## **👋 Hello, and welcome to my Github profile** 
+### **I'm Miscom, I am a novice software engineer, very interested in developing skills for gamedev, system utilities and bots🔨**
+### **I am also the founder and owner of the TF2 modding community "Frog Frotress 2"🐸**
 
 ## ℹ️ About Me
 - Currently learning C++
-- At the same time, I am a bit into exploits and cybersecurity.
 - How to reach me: [Email](mailto:miscommon.dev@gmail.com)
 
 ## 🛠️ Technologies & Tools
