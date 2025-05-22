@@ -4,7 +4,7 @@
 
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, Lua, C++, C
-- **Tools**: Git, Nano/Micro, VS Code, Fedora Linux Workstation 42
+- **Tools**: Git, Nano/Micro, VS Code/Visual Studio Community, Windows 11 23H2, LLVM.
 
 ## 📈 GitHub Stats
 <img height="125" src="https://github-readme-stats.vercel.app/api?username=miscommon&theme=dark&show_icons=true&hide_border=true&count_private=true" /> <img height="125" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miscommon&theme=dark&show_icons=true&hide_border=true&layout=compact" />
