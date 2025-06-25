@@ -3,7 +3,7 @@
 ### **I am also the founder and owner of the TF2 modding community "Frog Frotress 2"🐸**
 
 ## 🛠️ Technologies & Tools
-- **Languages**: Python, Lua, C++, C
+- **Languages**(Actively learning): Python, Lua, C++
 - **Tools**: Git, Nano/Micro, VS Code/Visual Studio Community, Windows 11 23H2, LLVM.
 
 ## 📈 GitHub Stats
